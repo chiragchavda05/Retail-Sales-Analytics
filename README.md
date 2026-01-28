@@ -48,7 +48,7 @@ The repository is **beginner-friendly** and demonstrates an **end-to-end data an
 5. Built an interactive dashboard using Power BI  
 
 ---
-
+```
 ## 📁 Complete Project Structure
 
 Retail-Sales-Analytics/
@@ -77,7 +77,7 @@ Retail-Sales-Analytics/
 │
 └── README.md 
 
-
+```
 ---
 
 ## 🚀 How to Download & Run the Project (Beginner Friendly)
@@ -108,37 +108,35 @@ cd Retail-Sales-Analytics
 ```
 
 Step 3: Run Python Automation
-Open Anaconda Navigator
-Launch Jupyter Notebook
-Open the python folder
-Open sales_analysis.ipynb
-Run all cells from top to bottom
+1.Open Anaconda Navigator
+2.Launch Jupyter Notebook
+3.Open the python folder
+4.Open sales_analysis.ipynb
+5.Run all cells from top to bottom
 
 This will:
-Load CSV data
-Generate KPIs (Total Sales, Profit, Orders)
-Create monthly sales summary
-Export results to Excel
+1.Load CSV data
+2.Generate KPIs (Total Sales, Profit, Orders)
+3.Create monthly sales summary
+4.Export results to Excel
 
----
 
 Step 4: SQL Analysis (Optional)
-Import orders.csv into SQLite / DB Browser / Online SQL tool
-Run SQL queries from retail_sales_queries.sql
+1.Import orders.csv into SQLite / DB Browser / Online SQL tool
+2.Run SQL queries from retail_sales_queries.sql
 
----
 
 Step 5: Power BI Dashboard
-Open retail_dashboard.pbix in Power BI Desktop
-Refresh the data if required
-Use slicers to explore insights interactively
+1.Open retail_dashboard.pbix in Power BI Desktop
+2.Refresh the data if required
+3.Use slicers to explore insights interactively
 
 ---
 
 ## 📊 Key Insights
-- Identified top-selling products.
-- Analyzed region-wise sales performance.
-- Observed customer purchase trends.
+1.Identified top-selling products.
+2. Analyzed region-wise sales performance.
+3. Observed customer purchase trends.
 
 ---
 
@@ -151,25 +149,25 @@ SQL, Excel, and Python screenshots are provided as proof of execution and analys
 
 ## 📌 Use Case
 
--This project is suitable for:
--Data Analyst Internships
--Academic final-year projects
--Portfolio / GitHub showcase
--Interview & viva demonstrations
+1.This project is suitable for:
+2.Data Analyst Internships
+3.Academic final-year projects
+4.Portfolio / GitHub showcase
+5.Interview & viva demonstrations
 
 ---
 
 ## 🎯 Learning Outcomes
-- Hands-on experience with real-world retail data.
-- Practical use of Excel, SQL, Python, and Power BI.
-- Understanding of end-to-end data analytics workflow.
+1. Hands-on experience with real-world retail data.
+2. Practical use of Excel, SQL, Python, and Power BI.
+3. Understanding of end-to-end data analytics workflow.
 
 ---
 ## 👤 Author
 
--Chirag Chavda
--B.Sc. IT (Sem 6)
--Aspiring Data Analyst
+* **Chirag Chavda**
+* **B.Sc. IT (Semester 6)**
+* **Aspiring Data Analyst**
 
 ---
 
