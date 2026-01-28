@@ -120,34 +120,34 @@ Generate KPIs (Total Sales, Profit, Orders)
 Create monthly sales summary
 Export results to Excel
 
-
+---
 
 Step 4: SQL Analysis (Optional)
 Import orders.csv into SQLite / DB Browser / Online SQL tool
 Run SQL queries from retail_sales_queries.sql
 
-
+---
 
 Step 5: Power BI Dashboard
 Open retail_dashboard.pbix in Power BI Desktop
 Refresh the data if required
 Use slicers to explore insights interactively
 
-
+---
 
 ## 📊 Key Insights
 - Identified top-selling products.
 - Analyzed region-wise sales performance.
 - Observed customer purchase trends.
 
-
+---
 
 ## 📸 Screenshots
 SQL, Excel, and Python screenshots are provided as proof of execution and analysis.
 
 > Note: SQL queries were executed on an online SQL platform; screenshots are included.
 
-
+---
 
 ## 📌 Use Case
 
@@ -157,21 +157,21 @@ SQL, Excel, and Python screenshots are provided as proof of execution and analys
 -Portfolio / GitHub showcase
 -Interview & viva demonstrations
 
-
+---
 
 ## 🎯 Learning Outcomes
 - Hands-on experience with real-world retail data.
 - Practical use of Excel, SQL, Python, and Power BI.
 - Understanding of end-to-end data analytics workflow.
 
-
+---
 ## 👤 Author
 
 -Chirag Chavda
 -B.Sc. IT (Sem 6)
 -Aspiring Data Analyst
 
-
+---
 
 ## ⭐ Feedback
 
