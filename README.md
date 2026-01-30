@@ -106,37 +106,37 @@ git clone https://github.com/your-username/Retail-Sales-Analytics.git
 Move into the project folder:
 cd Retail-Sales-Analytics
 ```
-
-Step 3: Run Python Automation
-1.Open Anaconda Navigator
-2.Launch Jupyter Notebook
-3.Open the python folder
-4.Open sales_analysis.ipynb
-5.Run all cells from top to bottom
+## Step 3: Run Python Automation
+1. Open Anaconda Navigator  
+2. Launch Jupyter Notebook  
+3. Open the python folder  
+4. Open `sales_analysis.ipynb`  
+5. Run all cells from top to bottom  
 
 This will:
-1.Load CSV data
-2.Generate KPIs (Total Sales, Profit, Orders)
-3.Create monthly sales summary
-4.Export results to Excel
+- Load CSV data  
+- Generate KPIs (Total Sales, Profit, Orders)  
+- Create monthly sales summary  
+- Export results to Excel  
 
+## Step 4: SQL Analysis (Optional)
+1. Import `orders.csv` into SQLite / DB Browser / Online SQL tool  
+2. Run SQL queries from `retail_sales_queries.sql`
 
-Step 4: SQL Analysis (Optional)
-1.Import orders.csv into SQLite / DB Browser / Online SQL tool
-2.Run SQL queries from retail_sales_queries.sql
+## Step 5: Power BI Dashboard
+1. Open `retail_dashboard.pbix` in Power BI Desktop  
+2. Refresh the data if required  
+3. Use slicers to explore insights interactively
 
-
-Step 5: Power BI Dashboard
-1.Open retail_dashboard.pbix in Power BI Desktop
-2.Refresh the data if required
-3.Use slicers to explore insights interactively
 
 ---
 
 ## 📊 Key Insights
-1.Identified top-selling products.
-2. Analyzed region-wise sales performance.
-3. Observed customer purchase trends.
+
+1. Identified top-selling products  
+2. Analyzed region-wise sales performance  
+3. Observed customer purchase trends  
+
 
 ---
 
@@ -149,11 +149,11 @@ SQL, Excel, and Python screenshots are provided as proof of execution and analys
 
 ## 📌 Use Case
 
-1.This project is suitable for:
-2.Data Analyst Internships
-3.Academic final-year projects
-4.Portfolio / GitHub showcase
-5.Interview & viva demonstrations
+This project is suitable for:
+1. Data Analyst Internships  
+2. Academic final-year projects  
+3. Portfolio / GitHub showcase  
+4. Interview & viva demonstrations  
 
 ---
 
